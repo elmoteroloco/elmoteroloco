@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on self development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Node.Js.
 - 👯 I’m looking to collaborate on dev projects.
 - 🤔 I’m looking for help with learning curves.
 - 💬 Ask me about Life, Universe and Everything Else.
