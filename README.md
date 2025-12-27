@@ -74,7 +74,8 @@
   <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=000000&labelColor=ff5100&logoSize=auto" />
 </div>
-
+<br/>
+<br/>
 <table border="0">
   <tr>
     <td width="50%" valign="top">
