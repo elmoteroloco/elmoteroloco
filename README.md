@@ -1,4 +1,3 @@
-
 <div align="center">
   <h3><b>Core Stack</b></h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=000000&labelColor=ff5100&logoSize=auto" />
@@ -11,8 +10,6 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=000000&labelColor=ff5100&logoSize=auto" />
 </div>
-
-<br>
 
 <div align="center">
   <h3><b>Entorno / Herramientas</b></h3>
@@ -30,8 +27,6 @@
   <img src="https://img.shields.io/badge/7--Zip-000000?style=for-the-badge&logo=7zip&logoColor=000000&labelColor=ff5100&logoSize=auto" />
 </div>
 
-<br>
-
 <div align="center">
   <h3><b>Backend / Cloud</b></h3>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=000000&labelColor=ff5100&logoSize=auto" />
@@ -43,8 +38,6 @@
   <img src="https://img.shields.io/badge/Render-91FFDC?style=for-the-badge&logo=render&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=000000&labelColor=ff5100&logoSize=auto" />
 </div>
-
-<br>
 
 <div align="center">
   <h3><b>Diseño / Multimedia</b></h3>
@@ -58,8 +51,6 @@
   <img src="https://img.shields.io/badge/Pixabay-232A34?style=for-the-badge&logo=pixabay&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=000000&labelColor=ff5100&logoSize=auto" />
 </div>
-
-<br>
 
 <div align="center">
   <h3><b>Calidad / Docs</b></h3>
@@ -75,8 +66,6 @@
   <img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=000000&labelColor=ff5100&logoSize=auto" />
 </div>
 
-<br>
-
 <div align="center">
   <h3><b>Oficina / OS</b></h3>
   <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=000000&labelColor=ff5100&logoSize=auto" />
@@ -84,4 +73,9 @@
   <img src="https://img.shields.io/badge/LibreOffice-3A71B1?style=for-the-badge&logo=libreoffice&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=000000&labelColor=ff5100&logoSize=auto" />
+</div>
+
+<div align="center">
+  <h3><b>Estadísticas de Batalla (3D)</b></h3>
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=elmoteroloco&theme=night-rainbow" alt="Mapa 3D de elmoteroloco" />
 </div>
