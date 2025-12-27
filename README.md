@@ -75,7 +75,22 @@
   <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=000000&labelColor=ff5100&logoSize=auto" />
 </div>
 
-<div align="center">
-  <h3><b>Estadísticas de Batalla (3D)</b></h3>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Mi mapa 3D" />
-</div>
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><b>📍 Sobre mi "Batalla"</b></h3>
+      <p>
+        Soy <b>elmoteroloco</b>, un explorador del código que cree en aprender haciendo. 
+        Este mapa 3D no es solo estética; es el registro de mi constancia. Cada bloque 
+        representa un paso más en el dominio de herramientas como Python, React y el 
+        vasto ecosistema de GitHub.
+      </p>
+      <p>
+        <i>"Las montañas se escalan paso a paso, y las baldosas flojas se fijan con código."</i>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Mapa 3D" width="100%" />
+    </td>
+  </tr>
+</table>
