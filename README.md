@@ -77,5 +77,5 @@
 
 <div align="center">
   <h3><b>Estadísticas de Batalla (3D)</b></h3>
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=elmoteroloco&theme=night-rainbow" alt="Mapa 3D de elmoteroloco" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Mi mapa 3D" />
 </div>
