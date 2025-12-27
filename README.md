@@ -85,21 +85,25 @@
         Mi camino en el código se desarrolló a través de muy distintas formas, en muy distintas épocas.
         Me inclino más por fórmulas con contenidos sólidos que por estéticas demasiado producidas, después de todo, ciertas cosas fundamentales siguen siendo las mismas de siempre.
       </p>
-      <br/>
+      <br/><br/>
       <p>
-        <i>del "Diccionario de Procesamiento de Datos de Random Shack":
+        <i>del <b>"Diccionario de Procesamiento de Datos de Random Shack"</b>:
       <br/>
-          Bucle sin fin: s., ver Bucle, sin fin.
       <br/>
-          Bucle, sin fin: s., ver Bucle sin fin.</i>
+          <b>Bucle sin fin:</b> s., ver Bucle, sin fin.
+      <br/>
+      <br/>
+          <b>Bucle, sin fin:</b> s., ver Bucle sin fin.</i>
       </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Mapa 3D" width="100%" />
-      <br/>
-      <p>
-        <sub>📊 Visualización 3D generada vía <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111</a></sub>
-      </p>
-    </td>
+<td width="50%" align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Mapa 3D" width="100%" />
+  <br />
+  <p>
+    <sub>
+      · Visualización 3D: <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111</a><br/>
+      · Badges: <a href="https://shields.io/">Shields.io</a> | · Iconos: <a href="https://simpleicons.org/">Simple Icons</a>
+    </sub>
+  </p>
+</td>
   </tr>
 </table>
