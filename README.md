@@ -79,19 +79,27 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3><b>📍 Sobre mi "Batalla"</b></h3>
+      <h3><b>📍 Sobre esta cuenta</b></h3>
       <p>
-        Soy <b>elmoteroloco</b>, un explorador del código que cree en aprender haciendo. 
-        Este mapa 3D no es solo estética; es el registro de mi constancia. Cada bloque 
-        representa un paso más en el dominio de herramientas como Python, React y el 
-        vasto ecosistema de GitHub.
+        Hola, soy <b>elmoteroloco</b>, un explorador que cree en aprender haciendo. 
+        Mi camino en el código se desarrolló a través de muy distintas formas, en muy distintas épocas.
+        Me inclino más por fórmulas con contenidos sólidos que por estéticas demasiado producidas, después de todo, ciertas cosas fundamentales siguen siendo las mismas de siempre.
       </p>
+      <br/>
       <p>
-        <i>"Las montañas se escalan paso a paso, y las baldosas flojas se fijan con código."</i>
+        <i>del "Diccionario de Procesamiento de Datos de Random Shack":
+      <br/>
+          Bucle sin fin: s., ver Bucle, sin fin.
+      <br/>
+          Bucle, sin fin: s., ver Bucle sin fin.</i>
       </p>
     </td>
     <td width="50%" align="center">
       <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Mapa 3D" width="100%" />
+      <br/>
+      <p>
+        <sub>📊 Visualización 3D generada vía <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111</a></sub>
+      </p>
     </td>
   </tr>
 </table>
