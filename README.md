@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/Git_For_Windows-F05032?style=for-the-badge&logo=gitforwindows&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/GitIgnore.io-204070?style=for-the-badge&logo=gitignoredotio&logoColor=000000&labelColor=ff5100&logoSize=auto" />
-  <img src="https://img.shields.io/badge/MinGW--64-990000?style=for-the-badge&logo=mingww64&logoColor=000000&labelColor=ff5100&logoSize=auto" />
+  <img src="https://img.shields.io/badge/MinGW--64-990000?style=for-the-badge&logo=mingww64&logoColor=000000&labelColor=ff5100&logoSize=auto" /><br/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/PyPy-3776AB?style=for-the-badge&logo=pypy&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/Chocolatey-412F1C?style=for-the-badge&logo=chocolatey&logoColor=000000&labelColor=ff5100&logoSize=auto" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/.Env-ECD53F?style=for-the-badge&logo=dotenv&logoColor=000000&labelColor=ff5100&logoSize=auto" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=000000&labelColor=ff5100&logoSize=auto" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=000000&labelColor=ff5100&logoSize=auto" /><br/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/Render-91FFDC?style=for-the-badge&logo=render&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=000000&labelColor=ff5100&logoSize=auto" />
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/Lighthouse-FF8360?style=for-the-badge&logo=lighthouse&logoColor=000000&labelColor=ff5100&logoSize=auto" />
-  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=000000&labelColor=ff5100&logoSize=auto" />
+  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=000000&labelColor=ff5100&logoSize=auto" /><br/>
   <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/MDN_Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=000000&labelColor=ff5100&logoSize=auto" />
   <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=000000&labelColor=ff5100&logoSize=auto" />
